@@ -12,3 +12,4 @@ Usage:
 ```
 
 Idea is based on @Andrewnolan13 comment: https://github.com/MicroPyramid/forex-python/issues/149#issuecomment-1787050118
+ECB credit: ddofborg
